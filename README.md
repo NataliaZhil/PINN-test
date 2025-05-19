@@ -1,8 +1,8 @@
 Comparison the numerical methond (Euler method, Runge–Kutta method, 
-Runge-Kutta-Merson method) with physics-informed neural network on simple example.
-Equation: y'+y = 3*exp(2x), where 0<=x<=1
-Analytical solution: y(x) = exp(2x)
-Modelling results:
+Runge-Kutta-Merson method) with physics-informed neural network on simple example.<div>
+Equation: y'+y = 3*exp(2x), where 0<=x<=1.<div>
+Analytical solution: y(x) = exp(2x) <div>
+Modelling results: <div>
 Xi   Yан(xi)*     Yi(Euler)*    Yi(Runge-Kutta)*    Yi (R-K-M)*     PINN
 
  0     1           1               1                 1              0.9999
